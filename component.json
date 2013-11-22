@@ -1,6 +1,6 @@
 {
   "name": "my-component",
-  "version": "0",
+  "version": "0.0.2",
   "dependencies": {},
   "styles": [
     "index.css",
