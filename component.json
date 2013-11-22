@@ -1,0 +1,9 @@
+{
+  "name": "my-component",
+  "version": "0",
+  "dependencies": {},
+  "styles": [
+    "index.css",
+    "index.scss"
+  ]
+}
